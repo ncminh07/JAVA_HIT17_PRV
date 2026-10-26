@@ -5,7 +5,7 @@ public class HItSHop {
     public static void main(String[] args) {     // main
         Scanner sc = new Scanner(System.in); //Scanner
 
-        System.out.println("------------Chào mừng bạn đến với HIT SHOP------------");
+        System.out.println("------------Chào mừng bạn đến với HIT SHOP SIUUUUUU------------");
 
         System.out.print("Nhập tên hàng : "); // Sout
         String matHang = sc.nextLine().trim();
